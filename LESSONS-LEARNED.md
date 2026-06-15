@@ -1,9 +1,5 @@
 # Lessons Learned
 
-An honest reflection on building the Enterprise Cloud Security Portfolio. *(Adjust any of this to your own voice and experience before publishing — it reads best when it's genuinely yours.)*
-
----
-
 ## What I set out to do
 
 I had already built two separate labs — a Unified Endpoint Management lab and an Email Authentication lab — and I wanted to connect them into a single, coherent enterprise environment rather than leave them as unrelated projects. The new piece was Infrastructure as Code: using Terraform to provision the governance and identity foundation that the rest of the environment runs on.
