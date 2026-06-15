@@ -84,4 +84,4 @@ See **[SECURITY-DECISIONS.md](SECURITY-DECISIONS.md)** for the full reasoning be
 ## About
 
 Built as a self-directed lab by **Darwin Marmolejos** - early-career IT professional focused on systems administration, cloud support, and identity/endpoint engineering.
-[LinkedIn](https://www.linkedin.com/in/your-handle) <!-- update with your profile URL -->
+[LinkedIn](www.linkedin.com/in/dmarmolejos)
